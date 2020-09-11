@@ -45,10 +45,21 @@ Jaeyeon Kang, Younghyun Jo, Seoung Wug Oh, Peter Vajda, and Seon Joo Kim. "STVUN
  
  ## Space-Time Video Testset(STVT) dataset
  
-We collect Space-Time Video Test(STVT) dataset that consists of 12 dynamic scenes with both dynamic motions
+We collect Space-Time Video Test(STVT) dataset that consists of 12 dynamic scenes with both various motions
 and spatial details for the joint upsampling evaluation. Each scene has at least 50 frames. 
 You can download our STVT dataset from [link](https://drive.google.com)
 
 ![Alt text](/imgs/STVT.PNG)
 
+
+## Citation
+
+If you use any part of this code in your research, please cite our paper
+
+    @article{kang2020deep,
+    title={Deep Space-Time Video Upsampling Networks},
+    author={Kang, Jaeyeon and Jo, Younghyun and Oh, Seoung Wug and Vajda, Peter and Kim, Seon Joo},
+    journal={arXiv preprint arXiv:2004.02432},
+    year={2020}
+    }
 
