@@ -11,7 +11,7 @@ Jaeyeon Kang, Younghyun Jo, Seoung Wug Oh, Peter Vajda, and Seon Joo Kim. "STVUN
 
 ## Dependencies
 
-    Python>=3.6.8, Pytorch>=1.3, CUDA version >= 10.2 
+    Python>=3.6.8, Pytorch>=1.3, CUDA version>= 10.2 
 
 
 ## Quickstart (Test models)
