@@ -28,7 +28,7 @@ Jaeyeon Kang, Younghyun Jo, Seoung Wug Oh, Peter Vajda, and Seon Joo Kim. "STVUN
         
  3. Place your test dataset in './test' folder. (e.g. ./test/Vid4)
  
- 4. Download our pretrained models from [link](https://drive.google.com). Then, place the models in ./pretrained_model
+ 4. Download our pretrained models from link. Then, place the models in ./pretrained_model
  
  5. Run demo. 
  
@@ -53,7 +53,7 @@ Jaeyeon Kang, Younghyun Jo, Seoung Wug Oh, Peter Vajda, and Seon Joo Kim. "STVUN
  
 We collect Space-Time Video Test(STVT) dataset that consists of 12 dynamic scenes with both various motions
 and spatial details for the joint upsampling evaluation. Each scene has at least 50 frames. 
-You can download our STVT dataset from [link](https://drive.google.com/drive/folders/1qDg4kOgbwFI8DCteKwz1RxGVqdfYwZUp?usp=sharing)
+You can download our STVT dataset from [link](https://drive.google.com/file/d/1nHuxP2t9HiqFjsbJdBPi7XbTdDzJAQoh/view?usp=sharing)
 
 ![Alt text](/imgs/STVT.PNG)
 
