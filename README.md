@@ -5,7 +5,9 @@ This repository is for STVUN introduced in the following paper
 Jaeyeon Kang, Younghyun Jo, Seoung Wug Oh, Peter Vajda, and Seon Joo Kim. "STVUN: Deep Space-Time Video Upsampling Networks", ECCV 2020.
 [PDF](https://arxiv.org/abs/2004.024322), [Video](https://www.youtube.com/watch?v=ZQoGbN16zKk)
 
-![Alt text](/img/teaser.png)
+
+
+![Alt text](/imgs/teaser.PNG)
 
 ## Dependencies
 
