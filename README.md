@@ -41,8 +41,14 @@ Jaeyeon Kang, Younghyun Jo, Seoung Wug Oh, Peter Vajda, and Seon Joo Kim. "STVUN
       + PRETRAINED_MODEL : path to pretrained model
       + TIME_STEP : the number of intermediate frames to generate
  
+      For example,
  
+        python demo.py --data_dir ./test/Vid4 \
+        --save_dir ./results --pre_train ./pretrained_model/STVUN.pth \
+        --time_step 3 
+        
  
+
  ## Space-Time Video Testset(STVT) dataset
  
 We collect Space-Time Video Test(STVT) dataset that consists of 12 dynamic scenes with both various motions
