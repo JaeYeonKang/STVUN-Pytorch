@@ -39,7 +39,7 @@ Jaeyeon Kang, Younghyun Jo, Seoung Wug Oh, Peter Vajda, and Seon Joo Kim. "STVUN
       + DATA_DIR : path to test dataset
       + SAVE_DIR : path to save results
       + PRETRAINED_MODEL : path to pretrained model
-      + TIME_STEP : the number of intermediate frames to generate
+      + TIME_STEP : number of intermediate frames to generate
  
       For example,
  
