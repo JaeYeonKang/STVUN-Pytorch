@@ -28,7 +28,7 @@ Jaeyeon Kang, Younghyun Jo, Seoung Wug Oh, Peter Vajda, and Seon Joo Kim. "STVUN
         
  3. Place your test dataset in './test' folder. (e.g. ./test/Vid4)
  
- 4. Download our pretrained models from [link](https://drive.google.com/file/d/1fORa8I8iKpzHEin67wW06armoB3MxvTT/view?usp=sharing). Then, place the models in ./pretrained_model
+ 4. Download our pretrained models from [link](https://drive.google.com/file/d/1fORa8I8iKpzHEin67wW06armoB3MxvTT/view?usp=sharing). Then, place the weights in ./pretrained_model
  
  5. Run demo. 
  
