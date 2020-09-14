@@ -16,12 +16,12 @@ Jaeyeon Kang, Younghyun Jo, Seoung Wug Oh, Peter Vajda, and Seon Joo Kim. "STVUN
 
 ## Quickstart (Test models)
 
-1. Clone this github repo. 
+1. Clone this github repo
 
        git clone https://github.com/JaeYeonKang/STVUN-Pytorch
        cd STVUN-PYtorch
 
-2. Compile the correlation package.
+2. Compile the correlation package
 
         cd networks/correlation_package
         python setup.py install
