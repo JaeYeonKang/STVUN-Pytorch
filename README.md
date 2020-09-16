@@ -11,7 +11,7 @@ Jaeyeon Kang, Younghyun Jo, Seoung Wug Oh, Peter Vajda, and Seon Joo Kim. "STVUN
 
 ## Dependencies
 
-    Python>=3.6.8, Pytorch>=1.3, CUDA version>= 10.2 
+    Python>=3.6.8, Pytorch>=1.2, CUDA version>= 10.2 
 
 
 ## Quickstart (Test models)
@@ -26,11 +26,11 @@ Jaeyeon Kang, Younghyun Jo, Seoung Wug Oh, Peter Vajda, and Seon Joo Kim. "STVUN
         cd networks/correlation_package
         python setup.py install
         
- 3. Place your test dataset in './test' folder. (e.g. ./test/Vid4)
+ 3. Place your test dataset in './test' folder (e.g. ./test/Vid4)
  
  4. Download our pretrained models from [link](https://drive.google.com/file/d/1fORa8I8iKpzHEin67wW06armoB3MxvTT/view?usp=sharing). Then, place the weights in ./pretrained_model
  
- 5. Run demo. 
+ 5. Run demo
  
         python demo.py --data_dir $DATA_DIR$ \
         --save_dir $SAVE_DIR$ --pre_train $PRETRAINED_MODEL$ \
