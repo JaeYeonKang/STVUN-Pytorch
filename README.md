@@ -23,7 +23,7 @@ Jaeyeon Kang, Younghyun Jo, Seoung Wug Oh, Peter Vajda, and Seon Joo Kim. "STVUN
 
 2. Compile the correlation package
 
-        cd networks/correlation_package
+        cd networks/correlation_package_pytorch
         ./build.sh
         
  3. Place your test dataset in './test' folder (e.g. ./test/Vid4)
